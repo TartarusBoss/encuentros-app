@@ -1,0 +1,205 @@
+[1m[33m[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`[39m[22m
+[33m❯[39m Building...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[32m✔[39m Building...
+[1mInitial chunk files[22m            [2m | [22m[1mNames[22m                       [2m | [22m [1mRaw size[22m
+[32mchunk-KBHP5MOT.js[39m              [2m | [22m[2m-[22m                           [2m | [22m  [36m2.26 MB[39m[2m | [22m
+[32mpolyfills.js[39m                   [2m | [22m[2mpolyfills[22m                   [2m | [22m  [36m1.03 MB[39m[2m | [22m
+[32mchunk-K33QTXTX.js[39m              [2m | [22m[2m-[22m                           [2m | [22m[36m252.70 kB[39m[2m | [22m
+[32mchunk-FFRJ3GK3.js[39m              [2m | [22m[2m-[22m                           [2m | [22m[36m242.32 kB[39m[2m | [22m
+[32mchunk-MZ5XD24Y.js[39m              [2m | [22m[2m-[22m                           [2m | [22m[36m239.68 kB[39m[2m | [22m
+[32mspec-chat-detail.spec.js[39m       [2m | [22m[2mspec-chat-detail.spec[22m       [2m | [22m[36m174.18 kB[39m[2m | [22m
+[32mchunk-ICONLAJO.js[39m              [2m | [22m[2m-[22m                           [2m | [22m[36m150.93 kB[39m[2m | [22m
+[32mspec-home.spec.js[39m              [2m | [22m[2mspec-home.spec[22m              [2m | [22m[36m141.90 kB[39m[2m | [22m
+[32mchunk-N7VRVTGI.js[39m              [2m | [22m[2m-[22m                           [2m | [22m [36m95.96 kB[39m[2m | [22m
+[32mspec-account.spec.js[39m           [2m | [22m[2mspec-account.spec[22m           [2m | [22m [36m87.82 kB[39m[2m | [22m
+[32mjasmine-cleanup-1.js[39m           [2m | [22m[2mjasmine-cleanup-1[22m           [2m | [22m [36m67.20 kB[39m[2m | [22m
+[32mspec-search.spec.js[39m            [2m | [22m[2mspec-search.spec[22m            [2m | [22m [36m61.54 kB[39m[2m | [22m
+[32mspec-notifications.spec.js[39m     [2m | [22m[2mspec-notifications.spec[22m     [2m | [22m [36m54.59 kB[39m[2m | [22m
+[32mspec-chats.spec.js[39m             [2m | [22m[2mspec-chats.spec[22m             [2m | [22m [36m42.44 kB[39m[2m | [22m
+[32mspec-sign-up.spec.js[39m           [2m | [22m[2mspec-sign-up.spec[22m           [2m | [22m [36m26.92 kB[39m[2m | [22m
+[32mchunk-PMUTJFMK.js[39m              [2m | [22m[2m-[22m                           [2m | [22m [36m25.12 kB[39m[2m | [22m
+[32mspec-login.spec.js[39m             [2m | [22m[2mspec-login.spec[22m             [2m | [22m [36m21.98 kB[39m[2m | [22m
+[32mtest_main.js[39m                   [2m | [22m[2mtest_main[22m                   [2m | [22m [36m21.81 kB[39m[2m | [22m
+[32mchunk-TR5JGRJ2.js[39m              [2m | [22m[2m-[22m                           [2m | [22m [36m12.23 kB[39m[2m | [22m
+[32mchunk-D3KSRCJ5.js[39m              [2m | [22m[2m-[22m                           [2m | [22m [36m11.95 kB[39m[2m | [22m
+[32mchunk-2IJVXUIZ.js[39m              [2m | [22m[2m-[22m                           [2m | [22m [36m11.04 kB[39m[2m | [22m
+[32mspec-app.spec.js[39m               [2m | [22m[2mspec-app.spec[22m               [2m | [22m  [36m4.18 kB[39m[2m | [22m
+[32mspec-friendship.service.spec.js[39m[2m | [22m[2mspec-friendship.service.spec[22m[2m | [22m  [36m4.06 kB[39m[2m | [22m
+[32mchunk-HBW54YOI.js[39m              [2m | [22m[2m-[22m                           [2m | [22m  [36m3.02 kB[39m[2m | [22m
+[32mjasmine-cleanup-0.js[39m           [2m | [22m[2mjasmine-cleanup-0[22m           [2m | [22m[36m519 bytes[39m[2m | [22m
+[32mstyles.css[39m                     [2m | [22m[2mstyles[22m                      [2m | [22m[36m158 bytes[39m[2m | [22m
+
+[1m [22m                              [2m | [22m[1mInitial total[22m               [2m | [22m  [1m5.05 MB[22m
+
+Application bundle generation complete. [2.479 seconds] - 2026-03-25T19:58:16.810Z
+
+[32m25 03 2026 14:58:17.113:INFO [karma-server]: [39mKarma v6.4.4 server started at http://localhost:9876/
+[32m25 03 2026 14:58:17.114:INFO [launcher]: [39mLaunching browsers ChromeHeadless with concurrency unlimited
+[32m25 03 2026 14:58:17.121:INFO [launcher]: [39mStarting browser ChromeHeadless
+[32m25 03 2026 14:58:17.724:INFO [Chrome Headless 146.0.0.0 (Windows 10)]: [39mConnected on socket 5qo-EK0-LioAG117AAAB with id 83272295
+Chrome Headless 146.0.0.0 (Windows 10): Executed 0 of 31[32m SUCCESS[39m (0 secs / 0 secs)
+[1A[2KERROR: [36m'Error sending friend request', Object{error: Object{message: 'Already friends'}}[39m
+Chrome Headless 146.0.0.0 (Windows 10): Executed 0 of 31[32m SUCCESS[39m (0 secs / 0 secs)
+ERROR: 'Error sending friend request', Object{error: Object{message: 'Already friends'}}
+[1A[2KERROR: [36m'Search error', Error: Search failed
+Error: Search failed
+    at http://localhost:9876/base/src/app/fearues/pages/search/search.spec.ts:70:73
+    at _Observable.init [as _subscribe] (http://localhost:9876/base/node_modules/rxjs/src/internal/observable/throwError.ts:123:68)
+    at _Observable._trySubscribe (http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:235:19)
+    at http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:225:18
+    at errorContext (http://localhost:9876/base/node_modules/rxjs/src/internal/util/errorContext.ts:29:5)
+    at _Observable.subscribe (http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:211:5)
+    at http://localhost:9876/base/src/app/fearues/pages/search/search.ts:47:68
+    at timer (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone.js:1809:37)
+    at _ZoneDelegate.invokeTask (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone.js:431:33)
+    at _ProxyZoneSpec.onInvokeTask (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone-testing.js:2163:39)[39m
+Chrome Headless 146.0.0.0 (Windows 10): Executed 0 of 31[32m SUCCESS[39m (0 secs / 0 secs)
+ERROR: 'Search error', Error: Search failed
+Error: Search failed
+    at http://localhost:9876/base/src/app/fearues/pages/search/search.spec.ts:70:73
+    at _Observable.init [as _subscribe] (http://localhost:9876/base/node_modules/rxjs/src/internal/observable/throwError.ts:123:68)
+    at _Observable._trySubscribe (http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:235:19)
+    at http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:225:18
+    at errorContext (http://localhost:9876/base/node_modules/rxjs/src/internal/util/errorContext.ts:29:5)
+    at _Observable.subscribe (http://localhost:9876/base/node_modules/rxjs/src/internal/Observable.ts:211:5)
+    at http://localhost:9876/base/src/app/fearues/pages/search/search.ts:47:68
+    at timer (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone.js:1809:37)
+    at _ZoneDelegate.invokeTask (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone.js:431:33)
+    at _ProxyZoneSpec.onInvokeTask (http://localhost:9876/base/node_modules/zone.js/fesm2015/zone-testing.js:2163:39)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 1 of 31[32m SUCCESS[39m (0 secs / 0.049 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 2 of 31[32m SUCCESS[39m (0 secs / 0.054 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 3 of 31[32m SUCCESS[39m (0 secs / 0.058 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 4 of 31[32m SUCCESS[39m (0 secs / 0.061 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 5 of 31[32m SUCCESS[39m (0 secs / 0.063 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 6 of 31[32m SUCCESS[39m (0 secs / 0.066 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 7 of 31[32m SUCCESS[39m (0 secs / 0.07 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 8 of 31[32m SUCCESS[39m (0 secs / 0.074 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 9 of 31[32m SUCCESS[39m (0 secs / 0.078 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 10 of 31[32m SUCCESS[39m (0 secs / 0.297 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 11 of 31[32m SUCCESS[39m (0 secs / 0.328 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 12 of 31[32m SUCCESS[39m (0 secs / 0.343 secs)
+[1A[2KWARN: [36m'No hay usuario logueado'[39m
+Chrome Headless 146.0.0.0 (Windows 10): Executed 12 of 31[32m SUCCESS[39m (0 secs / 0.343 secs)
+WARN: 'No hay usuario logueado'
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 13 of 31[32m SUCCESS[39m (0 secs / 0.363 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 14 of 31[32m SUCCESS[39m (0 secs / 0.364 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 15 of 31[32m SUCCESS[39m (0 secs / 0.365 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 16 of 31[32m SUCCESS[39m (0 secs / 0.366 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 17 of 31[32m SUCCESS[39m (0 secs / 0.367 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 18 of 31[32m SUCCESS[39m (0 secs / 0.368 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 19 of 31[32m SUCCESS[39m (0 secs / 0.369 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 20 of 31[32m SUCCESS[39m (0 secs / 0.369 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component reject should call rejectRequest and reload FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 21 of 31[31m (1 FAILED)[39m (0 secs / 0.377 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component reject should handle reject error FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 22 of 31[31m (2 FAILED)[39m (0 secs / 0.378 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component accept should handle accept error FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 23 of 31[31m (3 FAILED)[39m (0 secs / 0.379 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component accept should call acceptRequest and reload FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 24 of 31[31m (4 FAILED)[39m (0 secs / 0.38 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component loadNotifications should load notifications on init FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 25 of 31[31m (5 FAILED)[39m (0 secs / 0.381 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component loadNotifications should handle error loading notifications FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 26 of 31[31m (6 FAILED)[39m (0 secs / 0.382 secs)
+[1A[2K[31mChrome Headless 146.0.0.0 (Windows 10) Notifications Component should create FAILED[39m
+	TypeError: Cannot read properties of undefined (reading 'subscribe')
+	    at Notifications2.loadNotifications (src/app/fearues/pages/notifications/notifications.ts:33:63)
+	    at new Notifications2 (src/app/fearues/pages/notifications/notifications.ts:26:12)
+	    at NodeInjectorFactory.Notifications2_Factory [as factory] (ng:///Notifications2/ɵfac.js:4:10)
+	    at getNodeInjectable (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/di.ts:784:38)
+	    at instantiateAllDirectives (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:405:23)
+	    at createDirectivesInstances (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/instructions/shared.ts:124:3)
+	    at ComponentFactory2.create (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/src/render3/component_ref.ts:331:9)
+	    at initComponent (http://localhost:9876/k8-fastbuild-ST-199a4f3c4e20/bin/packages/core/testing/src/test_bed.ts:695:45)
+	    at _ZoneDelegate.invoke (node_modules/zone.js/fesm2015/zone.js:398:28)
+	    at _ProxyZoneSpec.onInvoke (node_modules/zone.js/fesm2015/zone-testing.js:2132:39)
+Chrome Headless 146.0.0.0 (Windows 10): Executed 27 of 31[31m (7 FAILED)[39m (0 secs / 0.384 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 28 of 31[31m (7 FAILED)[39m (0 secs / 0.392 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 29 of 31[31m (7 FAILED)[39m (0 secs / 0.404 secs)
+[1A[2KLOG: [36m'User from localStorage:', null[39m
+Chrome Headless 146.0.0.0 (Windows 10): Executed 29 of 31[31m (7 FAILED)[39m (0 secs / 0.404 secs)
+LOG: 'User from localStorage:', null
+[1A[2KWARN: [36m'No user found in localStorage'[39m
+Chrome Headless 146.0.0.0 (Windows 10): Executed 29 of 31[31m (7 FAILED)[39m (0 secs / 0.404 secs)
+WARN: 'No user found in localStorage'
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 30 of 31[31m (7 FAILED)[39m (0 secs / 0.432 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 31 of 31[31m (7 FAILED)[39m (0 secs / 0.435 secs)
+[1A[2KChrome Headless 146.0.0.0 (Windows 10): Executed 31 of 31[31m (7 FAILED)[39m (0.495 secs / 0.435 secs)
+[31mTOTAL: 7 FAILED, 24 SUCCESS[39m
+
+=============================== Coverage summary ===============================
+Statements   : 32% ( 209/653 )
+Branches     : 11.07% ( 37/334 )
+Functions    : 21.42% ( 33/154 )
+Lines        : 31.11% ( 192/617 )
+================================================================================
